@@ -19,17 +19,17 @@ This is a simple implementation of the classic Snake game in Python. The game is
    ```sh
    git clone https://github.com/deans2000/snakeGame.git
    cd snakeGame
-
+   ```
 2. **Install the prerequisites:**
    ```sh
    pip install -r requirements.txt
-
+   ```
 ## Run the game
 
 To run the game, simply copy and paste the following code into your terminal:
-    ```sh
-    python main.py
-
+```sh
+python main.py
+```
 ## How to play
 
 - Use the following keys to control the snake:
@@ -37,10 +37,9 @@ To run the game, simply copy and paste the following code into your terminal:
   - `a`: Move left
   - `s`: Move down
   - `d`: Move right
-- Press `enter` after typing the keys
+- Press `enter` after each command to move the snake
 - The objective is to eat the food (`o`) that appears on the board. Each time the snake eats the food, it grows longer.
 - Avoid running into the walls or the snake's own body, as this will end the game.
-
 
 
 
